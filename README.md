@@ -1,5 +1,7 @@
 # UFM-Split-Brain
 Split brain troubleshooting
+
+
 <img width="100" height="150" alt="ufm_ha_single_node_recovery_flowchart" src="https://github.com/user-attachments/assets/59b5ae0f-cf39-4d5e-b904-3c8a2d731fa5" />
 
 <svg width="100%" viewBox="0 0 680 1020" role="img" style="" xmlns="http://www.w3.org/2000/svg">
